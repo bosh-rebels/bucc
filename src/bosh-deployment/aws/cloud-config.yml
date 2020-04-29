@@ -21,7 +21,7 @@ vm_types:
 
 disk_types:
 - name: default
-  disk_size: 3000
+  disk_size: 30_000
 - name: large
   disk_size: 50_000
 
